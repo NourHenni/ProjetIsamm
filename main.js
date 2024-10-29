@@ -1,0 +1,1 @@
+const welcomeMessage = "Bonjour, bienvenue !";
